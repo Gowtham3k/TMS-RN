@@ -1,0 +1,83 @@
+[
+  {
+    "_id": "69b566b6e2a4564803690f57",
+    "name": "Mano",
+    "email": "mano@user.com",
+    "password": "$2b$10$vXyCmKDM4cmCv2Lck0gQg./9AEG0mm9AelVpDbsesGZ9YTdAcsYjm",
+    "phoneNumber": "6789045678",
+    "role": "USER",
+    "department": "Master of Buisness Management",
+    "programme": "School of Buisness Studies",
+    "emailNotifications": true,
+    "pushNotifications": true,
+    "createdAt": "2026-03-14T13:46:30.356Z",
+    "__v": 0
+  },
+  {
+    "_id": "69b3ded34cceb7cdc931e244",
+    "name": "guru",
+    "email": "guru@gmail.com",
+    "password": "$2b$10$vXyCmKDM4cmCv2Lck0gQg./9AEG0mm9AelVpDbsesGZ9YTdAcsYjm",
+    "phoneNumber": "1234567890",
+    "role": "STAFF",
+    "department": "Networking Staff",
+    "programme": "",
+    "emailNotifications": true,
+    "pushNotifications": true,
+    "createdAt": "2026-03-13T09:54:27.232Z",
+    "__v": 0
+  },
+  {
+    "_id": "69b3df074cceb7cdc931e251",
+    "name": "siddu",
+    "email": "siddu@gmail.com",
+    "password": "$2b$10$vXyCmKDM4cmCv2Lck0gQg./9AEG0mm9AelVpDbsesGZ9YTdAcsYjm",
+    "phoneNumber": "0987654321",
+    "role": "USER",
+    "department": "Master of Computer Science",
+    "programme": "School of Computer Studies",
+    "emailNotifications": true,
+    "pushNotifications": true,
+    "createdAt": "2026-03-13T09:55:19.118Z",
+    "__v": 0
+  },
+  {
+    "_id": "69b3ba15777967fcbcd314da",
+    "name": "Admin",
+    "email": "admin@tms.com",
+    "password": "$2b$10$Rf7daeRXNAaNA87Y7aenXOW0h9b6TvHgWCOgNDGyutUFL3lgAsoUW",
+    "phoneNumber": "1234567890",
+    "role": "SUPER_ADMIN",
+    "emailNotifications": true,
+    "pushNotifications": true,
+    "createdAt": "2026-03-13T07:17:41.813Z",
+    "__v": 0,
+    "bio": ""
+  },
+  {
+    "_id": "6acb79fb5da8cc8c0f59a139",
+    "name": "Staff Member",
+    "email": "staff@tms.com",
+    "password": "$2b$10$vXyCmKDM4cmCv2Lck0gQg./9AEG0mm9AelVpDbsesGZ9YTdAcsYjm",
+    "phoneNumber": "9876543210",
+    "role": "STAFF",
+    "department": "Maintenance & IT",
+    "emailNotifications": true,
+    "pushNotifications": true,
+    "createdAt": "2026-10-11T11:58:51.902Z",
+    "__v": 0
+  },
+  {
+    "_id": "6acb79fc5da8cc8c0f59a13c",
+    "name": "Campus User",
+    "email": "user@tms.com",
+    "password": "$2b$10$vXyCmKDM4cmCv2Lck0gQg./9AEG0mm9AelVpDbsesGZ9YTdAcsYjm",
+    "phoneNumber": "9876543211",
+    "role": "USER",
+    "department": "Computer Science",
+    "emailNotifications": true,
+    "pushNotifications": true,
+    "createdAt": "2026-10-11T11:58:52.122Z",
+    "__v": 0
+  }
+]

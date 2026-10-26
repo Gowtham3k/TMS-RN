@@ -1,0 +1,54 @@
+[
+  {
+    "_id": "69b566b6e2a4564803690f57",
+    "name": "Mano",
+    "email": "mano@user.com",
+    "role": "USER",
+    "department": "Master of Buisness Management",
+    "programme": "School of Buisness Studies"
+  },
+  {
+    "_id": "69b3ded34cceb7cdc931e244",
+    "name": "guru",
+    "email": "guru@gmail.com",
+    "role": "STAFF",
+    "department": "Networking Staff",
+    "programme": ""
+  },
+  {
+    "_id": "69b3df074cceb7cdc931e251",
+    "name": "siddu",
+    "email": "siddu@gmail.com",
+    "role": "USER",
+    "department": "Master of Computer Science",
+    "programme": "School of Computer Studies"
+  },
+  {
+    "_id": "69b3ba15777967fcbcd314da",
+    "name": "Admin",
+    "email": "admin@tms.com",
+    "role": "SUPER_ADMIN"
+  },
+  {
+    "_id": "6acb79fb5da8cc8c0f59a139",
+    "name": "Staff Member",
+    "email": "staff@tms.com",
+    "role": "STAFF",
+    "department": "Maintenance & IT"
+  },
+  {
+    "_id": "6acb79fc5da8cc8c0f59a13c",
+    "name": "Campus User",
+    "email": "user@tms.com",
+    "role": "USER",
+    "department": "Computer Science"
+  },
+  {
+    "_id": "6acc653a2e6f772940e22e5f",
+    "name": "MCA Student",
+    "email": "mca@user.com",
+    "role": "USER",
+    "department": "master of ca",
+    "programme": "MCA (Master of Computer Applications)"
+  }
+]

@@ -1,0 +1,19 @@
+{
+  "expo": {
+    "name": "TMS Mobile App",
+    "slug": "tms-mobile-app",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "userInterfaceStyle": "light",
+    "ios": {
+      "supportsTablet": true
+    },
+    "android": {
+      "softwareKeyboardLayoutMode": "resize"
+    },
+    "web": {},
+    "plugins": [
+      "expo-status-bar"
+    ]
+  }
+}
